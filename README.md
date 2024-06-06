@@ -8,8 +8,11 @@ https://www.kaggle.com/code/imdineshgrewal/market-mix-modeling-using-sales-data/
 The dataset, originally from Kaggle, contains the following columns:
 
 TV: Advertising spend on TV (in thousands of dollars)
+
 Radio: Advertising spend on radio (in thousands of dollars)
+
 Newspaper: Advertising spend on newspapers (in thousands of dollars)
+
 Sales: Sales figures (in thousands of units)
 
 ## Analysis
