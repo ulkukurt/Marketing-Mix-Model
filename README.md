@@ -1,13 +1,16 @@
-Marketing Mix Modeling Project
-This project focuses on Marketing Mix Modeling (MMM), a statistical analysis technique used to understand the impact of various marketing channels on sales. The dataset used for this analysis was sourced from Kaggle:https://www.kaggle.com/code/imdineshgrewal/market-mix-modeling-using-sales-data/input and includes advertising spend data for TV, radio, and newspaper, along with corresponding sales figures. The goal of this project is to quantify the effectiveness of each advertising channel and provide actionable insights for optimizing marketing strategies.
+## Marketing Mix Modeling Project
+
+This project focuses on Marketing Mix Modeling (MMM), a statistical analysis technique used to understand the impact of various marketing channels on sales. The dataset used for this analysis was sourced from Kaggle and includes advertising spend data for TV, radio, and newspaper, along with corresponding sales figures. The goal of this project is to quantify the effectiveness of each advertising channel and provide actionable insights for optimizing marketing strategies.
 
 Dataset
+https://www.kaggle.com/code/imdineshgrewal/market-mix-modeling-using-sales-data/input?select=Advertising.csv
 The dataset, originally from Kaggle, contains the following columns:
 
 TV: Advertising spend on TV (in thousands of dollars)
 Radio: Advertising spend on radio (in thousands of dollars)
 Newspaper: Advertising spend on newspapers (in thousands of dollars)
 Sales: Sales figures (in thousands of units)
+
 Analysis
 The analysis involves exploratory data analysis (EDA) to understand the relationships between different variables, followed by building a multiple linear regression model to estimate the impact of each advertising channel on sales. The results indicate that TV and radio advertising have statistically significant positive impacts on sales, while newspaper advertising does not show a significant effect.
 
