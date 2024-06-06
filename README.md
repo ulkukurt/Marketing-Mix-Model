@@ -22,7 +22,9 @@ The analysis involves exploratory data analysis (EDA) to understand the relation
 Based on the model's findings:
 
 TV Advertising: Highly effective in driving sales. Increasing the TV advertising budget can lead to substantial sales growth.
+
 Radio Advertising: Also effective, though to a lesser extent than TV. It can be a valuable component of a balanced media mix.
+
 Newspaper Advertising: Shows negligible impact on sales. Funds allocated to newspaper ads might be better utilized in more impactful channels like TV or radio.
 
 These insights help marketers make data-driven decisions to optimize their marketing spend and maximize return on investment (ROI).
