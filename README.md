@@ -4,6 +4,7 @@ This project focuses on Marketing Mix Modeling (MMM), a statistical analysis tec
 
 ### Dataset
 https://www.kaggle.com/code/imdineshgrewal/market-mix-modeling-using-sales-data/input?select=Advertising.csv
+
 The dataset, originally from Kaggle, contains the following columns:
 
 TV: Advertising spend on TV (in thousands of dollars)
